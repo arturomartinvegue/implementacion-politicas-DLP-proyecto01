@@ -23,7 +23,7 @@ El objetivo principal es establecer un marco de seguridad robusto que controle e
 
 ## 📂 Estructura del Repositorio
 - `/Politicas`: Contiene el informe completo de políticas y procedimientos.
-- `/Implementacion`: Contiene el informe para aplicar medidas de seguridad en dispositivos de almacenamiento extraíbles.
+- `/Implementacion`: Contiene el informe para aplicar medidas de seguridad en dispositivos de almacenamiento extraíbles en un sistema Windows.
 ---
 **Autor:** Arturo Martín Vegue González  
 **Fecha:** Noviembre 2025  
