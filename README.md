@@ -22,7 +22,7 @@ El objetivo principal es establecer un marco de seguridad robusto que controle e
 * **Cifrado (BitLocker / FileVault)**
 
 ## 📂 Estructura del Repositorio
-- `/Informe`: Contiene el informe completo de políticas y procedimientos.
+- `/Politicas`: Contiene el informe completo de políticas y procedimientos.
 
 ---
 **Autor:** Arturo Martín Vegue González  
